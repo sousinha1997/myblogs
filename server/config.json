@@ -1,0 +1,16 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "",
+    "prod_uri": "",
+    "github_url": "https://github.com/soumyaln",
+    "gmail_user": "${MY_EMAIL}",
+    "gmail_password": "${MY_PASSWORD}",
+    "no_of_posts": 5,
+    "login_image": "login.svg",
+    "blog_name": "MyBlogs",
+    "admin_user": "admin",
+    "admin_password": "admin"
+  }
+}
